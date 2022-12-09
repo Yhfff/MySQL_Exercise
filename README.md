@@ -2,7 +2,7 @@
 
 #### 记录牛客网刷MySQL习题的过程，同时也方便后续复习
 
-#### [刷题网址]((https://www.nowcoder.com/exam/oj?page=1&tab=SQL%E7%AF%87&topicId=199))
+#### [刷题网址](https://www.nowcoder.com/exam/oj?page=1&tab=SQL%E7%AF%87&topicId=199)
 
 - SQL_Level0：对应其中的非技术快速入门章节
 
